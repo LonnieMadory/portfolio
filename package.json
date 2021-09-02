@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "homepage": "https://username.github.io/portfolio"
   },
   "scripts": {
     "start": "react-scripts start",
