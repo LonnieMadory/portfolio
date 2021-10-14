@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(0, 0, 0);
+}
+
+.easter-egg-jumbo-shrimp {
+    color: rgb(241, 18, 10);
+}
+.easter-egg-jumbo-shrimp {
+    background-color: rgb(87, 3, 243);
+}
+
+.banner {
+    color:cornsilk; 
+    background-color: #00f;
+
+    height: 33.33vh;
+    width: 25vh;
+
+    font-size : 32px;
+    font-weight: 900;
+
+    text-align: center;
+    display: flex; 
+    
+    justify-content: center;
+    align-items: center;
+}
